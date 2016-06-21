@@ -1,0 +1,65 @@
+[
+  {
+    "TYPE" : "Filet",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "54",
+    "TIER" : "Rind",
+    "MEAT_ID" : "1"
+  },
+  {
+    "TYPE" : "Entrecote",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "56",
+    "TIER" : "Rind",
+    "MEAT_ID" : "2"
+  },
+  {
+    "TYPE" : "Roastbeef",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "53",
+    "TIER" : "Rind",
+    "MEAT_ID" : "3"
+  },
+  {
+    "TYPE" : "Nierstück",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "64",
+    "TIER" : "Kalb",
+    "MEAT_ID" : "4"
+  },
+  {
+    "TYPE" : "Schulterbraten",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "74",
+    "TIER" : "Kalb",
+    "MEAT_ID" : "5"
+  },
+  {
+    "TYPE" : "Steak",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "68",
+    "TIER" : "Schwein",
+    "MEAT_ID" : "6"
+  },
+  {
+    "TYPE" : "Spareribs",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "85",
+    "TIER" : "Schwein",
+    "MEAT_ID" : "7"
+  },
+  {
+    "TYPE" : "Brustspitz",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "85",
+    "TIER" : "Schwein",
+    "MEAT_ID" : "8"
+  },
+  {
+    "TYPE" : "Brust",
+    "DESCRIPTION" : "<null>",
+    "TEMP" : "72",
+    "TIER" : "Poulet",
+    "MEAT_ID" : "9"
+  }
+]
